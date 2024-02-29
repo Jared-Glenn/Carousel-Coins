@@ -15,5 +15,8 @@
 }
 
 .bi {
-  font-size: 35px
+  font-size: 35px;
+  background-color: red;
+  width: 100px;
+  height: 100px;
 }
